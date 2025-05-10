@@ -1,5 +1,6 @@
 from models.base_model import BaseModel
 
+
 class State(BaseModel):
     city_id: str = ""
     user_id: str = ""
