@@ -1,5 +1,5 @@
 import uuid
-from __init__ import storage
+from models import storage
 from datetime import datetime
 
 
